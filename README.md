@@ -13,7 +13,9 @@ A music player with a low use of your cpu and ram with a ui simple and focused f
 5. That's maybe you shold put that direct acces in your task bar like this picture shows
 ![image](https://github.com/JhonCODEOWO/NestPlayer/assets/105316167/542c652a-cbcb-4e0d-add1-8d781164e3a1)
 
-
+# Features
+• Lyric reader include
+• Estadistics about your artists and top 10 tracks listened
 
 # Changelog
 15/06/2023
