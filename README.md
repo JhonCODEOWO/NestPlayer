@@ -28,4 +28,4 @@ A music player with a low use of your cpu and ram with a ui simple and focused f
 * Some bugs are solved
 * The estadistics now aren't affected by update of your files.
 * UI Stils updating so be patient please
-* Settings and personalization are comming in nex updates
+* Settings and personalization are comming in next updates
