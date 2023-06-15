@@ -14,8 +14,8 @@ A music player with a low use of your cpu and ram with a ui simple and focused f
 ![image](https://github.com/JhonCODEOWO/NestPlayer/assets/105316167/542c652a-cbcb-4e0d-add1-8d781164e3a1)
 
 # Features
-• Lyric reader include
-• Estadistics about your artists and top 10 tracks listened
+1. Lyric reader include
+2. Estadistics about your artists and top 10 tracks listened
 
 # Changelog
 15/06/2023
