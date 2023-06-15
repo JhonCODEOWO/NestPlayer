@@ -16,6 +16,12 @@ A music player with a low use of your cpu and ram with a ui simple and focused f
 # Features
 1. Lyric reader include
 2. Estadistics about your artists and top 10 tracks listened
+3. Manager of your music files by directory
+4. Album art while you play music
+5. Metadata viewer
+6. Repeat and random mode
+7. Support with mp3 and flac files
+8. Basic search engine
 
 # Changelog
 15/06/2023
