@@ -1,7 +1,7 @@
 # NestPlayer-V1
 A music player with a low use of your cpu and ram with a ui simple and focused for the only thing inmportant, ¡Listen music!
 
-# How install (Wait for an installer it comming in a few months)
+# How use it (Wait for an installer i'm working on it)
 1. Download this project :)
 2. Decompress the .zip downloaded
 3. Click on NestPlayer aplication
